@@ -7,5 +7,8 @@ Contains Examples of:
 Linear Regression
 Logistic Regression
 K-Means Clustering
+K Nearest Neighbors
 Arima Forecasting
-
+Decision Tree
+NLP - Bag of Words
+Tensorflow NLP 
